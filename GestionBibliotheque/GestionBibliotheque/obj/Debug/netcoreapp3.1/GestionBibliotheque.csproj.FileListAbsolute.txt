@@ -1,0 +1,14 @@
+E:\Cours BTS SIO\TP de C#\GestionBibliotheque_Tp5\GestionBibliotheque\GestionBibliotheque\bin\Debug\netcoreapp3.1\GestionBibliotheque.exe
+E:\Cours BTS SIO\TP de C#\GestionBibliotheque_Tp5\GestionBibliotheque\GestionBibliotheque\bin\Debug\netcoreapp3.1\GestionBibliotheque.deps.json
+E:\Cours BTS SIO\TP de C#\GestionBibliotheque_Tp5\GestionBibliotheque\GestionBibliotheque\bin\Debug\netcoreapp3.1\GestionBibliotheque.runtimeconfig.json
+E:\Cours BTS SIO\TP de C#\GestionBibliotheque_Tp5\GestionBibliotheque\GestionBibliotheque\bin\Debug\netcoreapp3.1\GestionBibliotheque.runtimeconfig.dev.json
+E:\Cours BTS SIO\TP de C#\GestionBibliotheque_Tp5\GestionBibliotheque\GestionBibliotheque\bin\Debug\netcoreapp3.1\GestionBibliotheque.dll
+E:\Cours BTS SIO\TP de C#\GestionBibliotheque_Tp5\GestionBibliotheque\GestionBibliotheque\bin\Debug\netcoreapp3.1\GestionBibliotheque.pdb
+E:\Cours BTS SIO\TP de C#\GestionBibliotheque_Tp5\GestionBibliotheque\GestionBibliotheque\obj\Debug\netcoreapp3.1\GestionBibliotheque.csproj.AssemblyReference.cache
+E:\Cours BTS SIO\TP de C#\GestionBibliotheque_Tp5\GestionBibliotheque\GestionBibliotheque\obj\Debug\netcoreapp3.1\GestionBibliotheque.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cours BTS SIO\TP de C#\GestionBibliotheque_Tp5\GestionBibliotheque\GestionBibliotheque\obj\Debug\netcoreapp3.1\GestionBibliotheque.AssemblyInfoInputs.cache
+E:\Cours BTS SIO\TP de C#\GestionBibliotheque_Tp5\GestionBibliotheque\GestionBibliotheque\obj\Debug\netcoreapp3.1\GestionBibliotheque.AssemblyInfo.cs
+E:\Cours BTS SIO\TP de C#\GestionBibliotheque_Tp5\GestionBibliotheque\GestionBibliotheque\obj\Debug\netcoreapp3.1\GestionBibliotheque.csproj.CoreCompileInputs.cache
+E:\Cours BTS SIO\TP de C#\GestionBibliotheque_Tp5\GestionBibliotheque\GestionBibliotheque\obj\Debug\netcoreapp3.1\GestionBibliotheque.dll
+E:\Cours BTS SIO\TP de C#\GestionBibliotheque_Tp5\GestionBibliotheque\GestionBibliotheque\obj\Debug\netcoreapp3.1\GestionBibliotheque.pdb
+E:\Cours BTS SIO\TP de C#\GestionBibliotheque_Tp5\GestionBibliotheque\GestionBibliotheque\obj\Debug\netcoreapp3.1\GestionBibliotheque.genruntimeconfig.cache
